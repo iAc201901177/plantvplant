@@ -1,0 +1,34 @@
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.exe.config
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.exe
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.pdb
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.AssemblyReference.cache
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals_group6_cselec13.Form1.resources
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals_group6_cselec13.Properties.Resources.resources
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.GenerateResource.cache
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.exe
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.pdb
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\Interop.WMPLib.dll
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.ResolveComReference.cache
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\System.Data.SqlClient.dll
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\System.Data.SqlClient.xml
+E:\Visual Studio\Works\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.CopyComplete
+E:\Visual Studio\Works\finals-group6-cselec13\bin\Debug\Database1.accdb
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\Database1.accdb
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.exe.config
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.exe
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\finals-group6-cselec13.pdb
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.AssemblyReference.cache
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\Interop.WMPLib.dll
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.ResolveComReference.cache
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals_group6_cselec13.Form1.resources
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals_group6_cselec13.Properties.Resources.resources
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.GenerateResource.cache
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.csproj.CopyComplete
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.exe
+C:\Users\ryanp\Downloads\finals-group6-cselec13\finals-group6-cselec13\obj\Debug\finals-group6-cselec13.pdb
